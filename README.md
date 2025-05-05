@@ -1,22 +1,22 @@
-💼 Job Description Dashboard
+#💼 Job Description Dashboard
 An interactive dashboard designed to explore and analyze current job market trends, helping users align their career choices with real-time data. Whether you're a job seeker, career switcher, or market analyst, this tool empowers you to make informed decisions based on job descriptions.
 
-🌐 Live Demo
+#🌐 Live Demo
 Check out the live dashboard here:
 👉 https://jobdescriptionportalll.netlify.app/
-
 Explore real-time job market trends with interactive filters and visual insights — no installation needed!
-🚀 Features
+
+#🚀 Features
 🔍 Dynamic Job Trend Exploration
 Filter job postings by job titles, skills, or locations to uncover how each factor influences job requirements.
 
-📊 Visual Insights
+#📊 Visual Insights
 Understand key market trends through intuitive visualizations such as bar charts, heatmaps, and pie charts (customized to your implementation).
 
-🧭 Filter & Sort Functionality
+#🧭 Filter & Sort Functionality
 Narrow down search results using custom filters and sort them based on your preferences like skills, city, demand, etc.
 
-🎯 Benefits
+#🎯 Benefits
 🎯 Targeted Job Search
 Find opportunities that match your skills and career goals.
 
